@@ -1,7 +1,6 @@
 ### Opa! Eu sou o Filipe Drumond
 - 🔭 Hoje trabalho com Front-end
 - 🌱 Estou estudando TypeScript e Vue.js
-- 😄 Pronomes: ele/dele
 
 <div align="left">
   <a href="https://github.com/filipedrumond">
